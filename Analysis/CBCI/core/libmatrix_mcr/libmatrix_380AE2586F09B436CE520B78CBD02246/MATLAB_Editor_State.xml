@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Editor version="1.0">
+   <File absPath="C:\Program Files\MATLAB\R2007b\work\TAG\release" lastWrittenTime="1248210555015" name="demo_dalmatian.m">
+      <CodeFolds version="1.0"/>
+   </File>
+   <File absPath="C:\Program Files\MATLAB\R2007b\work\TAG\release" lastWrittenTime="1248210556593" name="demo_Chandelier_Menorah.m">
+      <CodeFolds version="1.0"/>
+   </File>
+   <File absPath="C:\Program Files\MATLAB\R2007b\work\GeneralPurpose" lastWrittenTime="1248439842531" name="make_colorbar.m">
+      <CodeFolds version="1.0"/>
+   </File>
+   <File absPath="C:\Program Files\MATLAB\R2007b\work\TAG\DaveSimulations" lastWrittenTime="1248738125015" name="simulate_trial.m">
+      <CodeFolds version="1.0"/>
+   </File>
+   <File absPath="C:\Program Files\MATLAB\R2007b\work\TAG\DaveSimulations" lastWrittenTime="1250277321296" name="simulate_trial_top500.m">
+      <CodeFolds version="1.0"/>
+   </File>
+   <File absPath="C:\Program Files\MATLAB\R2007b\work\TAG\DaveSimulations" lastWrittenTime="1250277324281" name="simulate_ntrials_top500.m">
+      <CodeFolds version="1.0"/>
+   </File>
+   <File absPath="C:\Program Files\MATLAB\R2007b\work\TAG\DaveSimulations" lastWrittenTime="1250277636156" name="TEMP-plotall.m">
+      <CodeFolds version="1.0"/>
+   </File>
+   <File absPath="F:" lastWrittenTime="1250284940515" name="GetTAGfilelist.m">
+      <CodeFolds version="1.0"/>
+   </File>
+   <File absPath="C:\Program Files\MATLAB\R2007b\work\CalTech_ClosedLoop_PilotExp\functions" lastWrittenTime="1250514986203" name="createPythonXMLstruct.m">
+      <CodeFolds version="1.0"/>
+   </File>
+   <File absPath="C:\Program Files\MATLAB\R2007b\work\CalTech_ClosedLoop_PilotExp" lastWrittenTime="1250533953750" name="CreateInputXML.m">
+      <CodeFolds version="1.0"/>
+   </File>
+   <File absPath="C:\Program Files\MATLAB\R2007b\work\CalTech_ClosedLoop_PilotExp\functions\classifier_evaluation_functions" lastWrittenTime="1250553384546" name="getXMLstructfieldvalue.m">
+      <CodeFolds version="1.0"/>
+   </File>
+   <File absPath="C:\Documents and Settings\liinclab\Desktop\tmp\code\matlabCore\source\classifier_button" lastWrittenTime="1251149622781" name="daqdetect_lastofficialversion_082409.m">
+      <CodeFolds version="1.0"/>
+   </File>
+   <File absPath="C:\Program Files\MATLAB\R2007b\work\Standalone" lastWrittenTime="1251501215921" name="ConvertDatfile2Txt_matlab.m">
+      <CodeFolds version="1.0"/>
+   </File>
+   <File absPath="C:\Program Files\MATLAB\R2007b\work\TAG\release" lastWrittenTime="1251811742796" name="GTAM_eegwronglabels.m">
+      <CodeFolds version="1.0"/>
+   </File>
+   <File absPath="C:\Program Files\MATLAB\R2007b\work\CalTech_ClosedLoop_PilotExp" lastWrittenTime="1251811742796" name="ClosedLoop_CalTech_PilotExp.m">
+      <CodeFolds version="1.0"/>
+   </File>
+   <File absPath="C:\Program Files\MATLAB\R2007b\work\TAG\DaveSimulations" lastWrittenTime="1251931945781" name="plot_ntrials.m">
+      <CodeFolds version="1.0"/>
+   </File>
+   <File absPath="C:\Program Files\MATLAB\R2007b\work\TAG\DaveSimulations" lastWrittenTime="1251931947578" name="get_nCorrect.m">
+      <CodeFolds version="1.0"/>
+   </File>
+   <File absPath="C:\Program Files\MATLAB\R2007b\work\TAG\DaveSimulations" lastWrittenTime="1251931948796" name="simulate_ntrials.m">
+      <CodeFolds version="1.0"/>
+   </File>
+   <File absPath="C:\Program Files\MATLAB\R2007b\work\TAG\DaveSimulations" lastWrittenTime="1251931949625" name="get_categories.m">
+      <CodeFolds version="1.0"/>
+   </File>
+   <File absPath="C:\Program Files\MATLAB\R2007b\work\TAG\DaveSimulations" lastWrittenTime="1251931953062" name="Top500Histos.m">
+      <CodeFolds version="1.0"/>
+   </File>
+   <File absPath="C:\Documents and Settings\liinclab\Desktop\tmp\code\matlabCore\source\classifier_button" lastWrittenTime="1251931957375" name="preprocess.m">
+      <CodeFolds version="1.0"/>
+   </File>
+   <File absPath="C:\Documents and Settings\liinclab\Desktop\tmp\code\matlabCore\source\classifier_button" lastWrittenTime="1252002189718" name="daqdetect.m">
+      <CodeFolds version="1.0"/>
+   </File>
+   <File absPath="C:\Documents and Settings\liinclab\Desktop\tmp\code\matlabCore\source\classifier_button" lastWrittenTime="1252002191531" name="extractEvents.m">
+      <CodeFolds version="1.0"/>
+   </File>
+   <File absPath="C:\Documents and Settings\liinclab\Desktop\tmp\code\matlabCore\source\classifier_button" lastWrittenTime="1252002194359" name="readINI_DaveJ.m">
+      <CodeFolds version="1.0"/>
+   </File>
+   <File absPath="C:\Program Files\MATLAB\R2007b\work\TAG\DaveSimulations" lastWrittenTime="1252002931750" name="simulate_ntrials_top500_blank.m">
+      <CodeFolds version="1.0"/>
+   </File>
+</Editor>

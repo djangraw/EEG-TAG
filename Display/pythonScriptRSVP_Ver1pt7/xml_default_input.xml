@@ -1,0 +1,24 @@
+<?xml version="1.0" ?>
+<object_detection_result>
+<file_name>.\_data\trainingpath</file_name>
+<object_info idx="1">
+<file_name>\targetpool\vanhatpeople4.jpg</file_name>	
+<id>1</id>
+<status>1</status>
+<position_x>0</position_x>
+<position_y>0</position_y>
+<confidence>0.0</confidence>
+<eegconfidence>0.0</eegconfidence>
+<groundTruth>1</groundTruth>
+</object_info>
+<object_info idx="3">
+<file_name>\nontargetpool\vanhat0801.jpg</file_name>	
+<id>3</id>
+<status>2</status>
+<position_x>0</position_x>
+<position_y>0</position_y>
+<confidence>0.0</confidence>
+<eegconfidence>0.0</eegconfidence>
+<groundTruth>0</groundTruth>
+</object_info>
+</object_detection_result>

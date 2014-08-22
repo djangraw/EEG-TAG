@@ -1,0 +1,169 @@
+% Copyright 2000-2007 The MathWorks, Inc.
+% $Revision: 1.3.4.12.2.1 $ $Date: 2007/07/31 14:35:12 $
+<(remez)Filter order must be 3 or more.
+>(remez)フィルタの次数は3以上である必要があります。
+<(prefspanel)Filter Specifications
+>(prefspanel)フィルタ仕様
+<(prefspanel)Magnitude Response
+>(prefspanel)振幅応答
+<(prefspanel)Phase Response
+>(prefspanel)位相応答
+<(prefspanel)Magnitude and Phase Response
+>(prefspanel)振幅応答と位相応答
+<(prefspanel)Group Delay
+>(prefspanel)郡遅延
+<(prefspanel)Impulse Response
+>(prefspanel)インパルス応答
+<(prefspanel)Step Response
+>(prefspanel)ステップ応答
+<(prefspanel)Pole/Zero Plot
+>(prefspanel)極零プロット
+<(prefspanel)Filter Coefficients
+>(prefspanel)フィルタ係数
+% wan-2002/12/24
+<(zplaneplot)Real Part
+>(zplaneplot)実部
+<(zplaneplot)Imaginary Part
+>(zplaneplot)虚部
+<(thisdraw)Normalized Frequency  (\times\pi rad/sample)
+>(thisdraw)正規化周波数 (\times\pi ラジアン/サンプル)
+<(thisdraw)Normalized Frequency (\times\pi rad/sample)
+>(thisdraw)正規化周波数 (\times\pi ラジアン/サンプル)
+<(winviewer)Magnitude
+>(winviewer)振幅
+<(winviewer)Magnitude (dB)
+>(winviewer)振幅 (dB)
+<(winviewer)Magnitude squared
+>(winviewer)振幅の2乗
+<(winviewer)Zero-phase
+>(winviewer)ゼロ位相
+<(zerophase)Amplitude
+>(zerophase)振幅
+<(thisdraw)Time (%s)
+>(thisdraw)時間 (%s)
+<()Direct-Form Antisymmetric FIR
+>()直接型非対称FIR
+%<()Discrete Filter
+%>()離散フィルタ
+<()Lattice Allpass
+>()ラティスオールパス
+<()Lattice Moving-Average (MA) For Minimum Phase
+>()最小位相に対するラティス移動平均(MA)
+<()Lattice Moving-Average (MA) For Maximum Phase
+>()最大位相に対するラティス移動平均(MA)
+<()Lattice Autoregressive Moving-Average (ARMA)
+>()ラティス自己回帰移動平均(ARMA)
+<()Band-edge frequencies must be less than the Nyquist frequency.
+>()Band-edge周波数はナイキスト周波数より小さくなければなりません。
+<()Band-edge frequencies must be positive.
+>()Band-edge周波数は正でなければなりません
+<()Band-edge frequencies cannot exceed half the sampling frequency.
+>()Band-edge周波数はサンプリング周波数の半分を越えてはいけません
+<()Band-edge frequencies cannot exceed one.
+>()Band-edge周波数は1を越えてはいけません。
+<(cconv)A and B must be vectors.
+>(cconv)A と B はベクトルでなければなりません。
+
+<()Frequency (Hz)
+>()周波数 (Hz)
+<()Frequency (kHz)
+>()周波数 (kHz)
+<()Frequency (MHz)
+>()周波数 (MHz)
+<()Frequency (GHz)
+>()周波数 (GHz)
+<()Frequency (THz)
+>()周波数 (THz)
+<()Frequency (PHz)
+>()周波数 (PHz)
+<()Frequency (EHz)
+>()周波数 (EHz)
+<()Frequency (aHz)
+>()周波数 (aHz)
+<()Frequency (fHz)
+>()周波数 (fHz)
+<()Frequency (pHz)
+>()周波数 (pHz)
+<()Frequency (\muHz)
+>()周波数 (\muHz)
+<()Frequency (mHz)
+>()周波数 (mHz)
+<()Power/frequency (dB/rad/sample)
+>()パワー/周波数 (dB/ラジアン/サンプル)
+<()Power/frequency (dB/Hz)
+>()パワー/周波数 (dB/Hz)
+<()Burg Power Spectral Density Estimate
+>()Burg 法パワースペクトル密度推定
+<()Covariance Power Spectral Density Estimate
+>()共分散法パワースペクトル密度推定
+<()Modified Covariance Power Spectral Density Estimate
+>()修正共分散法パワースペクトル密度推定
+<()Thompson Multitaper Power Spectral Density Estimate
+>()Thompson マルチテーパパワースペクトル密度推定
+<()Periodogram Power Spectral Density Estimate
+>()ピリオドグラムパワースペクトル密度推定
+<()Welch Power Spectral Density Estimate
+>()Welch 法パワースペクトル密度推定
+<()Yule-Walker Power Spectral Density Estimate
+>()Yule-Walker 法パワースペクトル密度推定
+<()Periodogram Mean-Square Spectrum Estimate
+>()ピリオドグラム平均二乗スペクトル推定
+<()Welch Mean-Square Spectrum Estimate
+>()Welch 平均二乗スペクトル推定
+<()Eigenvector Pseudospectrum
+>()固有ベクトル法擬似スペクトル
+<()Multiple Signal Classification (MUSIC) Pseudospectrum
+>()多重信号分類法 (MUSIC) 擬似スペクトル
+<()Time (s)
+>()時間 (s)
+<()Time (secs)
+>()時間 (秒)
+<()Time (mins)
+>()時間 (分)
+<()Time (hrs)
+>()時間 (時)
+<()Time (days)
+>()時間 (日)
+<()Time (years)
+>()時間 (年)
+
+%% toolbox/signal/signal/@dspopts/@spectrum/schema.m
+<(schema)Confidence Level must be numeric, scalar and strictly between 0 and 1
+>(schema)信頼レベルは、数値のスカラで、厳密に 0 と 1 の間でなければなりません。
+
+%% toolbox/signal/signal/@dspopts/@findpeaks/schema.m
+<(schema)MinPeakDistance value must be real, positive and scalar.
+>(schema)MinPeakDistance の値は、実数で正のスカラでなければなりません。
+<(schema)MinPeakHeight should be a real valued scalar.
+>(schema)MinPeakHeight は、実数値のスカラである必要があります。
+<(schema)Number of peaks should be a positive integer.
+>(schema)ピークの数は、正の整数である必要があります。
+<(schema)Sort string should either be 'ascend' , 'descend' or 'none.'
+>(schema)文字列の並び替えは、'ascend'、'descend', 'none' のいずれかである必要があります。
+<(schema)Threshold should be a positive scalar.
+>(schema)スレッシュホールドは、正のスカラである必要があります。
+
+%% toolbox/signal/signal/findpeaks.m
+<(findpeaks)Data set cannot be empty.
+>(findpeaks)データセットを空にはできません。
+<(findpeaks)Invalid MinPeakHeight. There are no data points greater than MinPeakHeight.
+>(findpeaks)MinPeakHeight が無効です。MinPeakHeight より大きいデータ点がありません。
+<(findpeaks)MinPeakDistance should be an integer greater than 0.
+>(findpeaks)MinPeakDistance は 0 より大きい整数である必要があります。
+<(findpeaks)No peaks found.
+>(findpeaks)ピークが見つかりません。
+
+%% toolbox/signal/signal/@dspopts/@sfdr/schema.m
+<(schema)MinSpurDistance value must be real, positive and scalar.
+>(schema)MinSpurDistance の値は、実数で正のスカラでなければなりません。
+<(schema)MinSpurLevel should be a real valued scalar.
+>(schema)MinSpurLevel は、実数値のスカラである必要があります。
+
+%% toolbox/signal/signal/@dspdata/@msspectrum/sfdr.m
+<(sfdr)MinSpurLevel is very large. There are no data points greater than MinSpurLevel.
+>(sfdr)MinSpurLevel は非常に大きいです。MinSpurLevel より大きいデータ点がありません。
+<(sfdr)No spurs found. Try changing MinSpurLevel or MinSpurDistance, if specified.
+>(sfdr)不要成分が見つかりません。指定した場合、MinSpurLevel または MinSpurDistance を変更してみてください。
+
+
+
