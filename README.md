@@ -14,8 +14,8 @@ Eric A Pohlmeyer et al. (2011) "Closing the loop in cortically-coupled computer 
 To get started with this software:
 <ol>
 <li>Download this repository</li>
-<li>Download the Third Party software here: https://dl.dropboxusercontent.com/u/10809610/EEG-TAG/ThirdParty.zip </li>
-<li>Download the TAG CV graph here: https://dl.dropboxusercontent.com/u/10809610/EEG-TAG/CaltechGistGraph_BM.mat 
+<li>Download the Third Party software here: https://www.dropbox.com/s/oa3lu9e23zyx5f9/ThirdParty.zip?dl=0 </li>
+<li>Download the TAG CV graph here: https://www.dropbox.com/s/90hqomyok0o605f/CaltechGistGraph_BM.mat?dl=0 
 and place it in the Analysis/CalTech_ClosedLoop_PilotExp/DataFiles folder. (This graph was built for the CalTech101 image set; a new image set will require a new graph if you want to use the closed-loop MATLAB code. Alternatively, the RSVP display code and EEG analysis can run with a new image set without requiring a graph.) </li>
 <li>Follow the setup instructions in Documentation/Readme.txt .</li>
 </ol>
